@@ -9,4 +9,6 @@ A link to the final 430MC V2 world backup can be found on the [Internet Archive.
 
 Thank you all so much for your support! This has been fantastic during this tough year.
 
-- Avery
+Game on gamers,
+
+ Avery
