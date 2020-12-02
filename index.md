@@ -1,6 +1,7 @@
 ## Welcome to Big Dogs MC
 
-This pack is for the [Big Dogs community!](https://discord.gg/6yg4gdV)
+This pack is for the [Big Dogs community](https://discord.gg/6yg4gdV)
+Created by the [430 Community](https://discord.gg/nujXh3Y3mp)
 
 Our current server is running Valhelsia 3 which is available on [GDLauncher](https://gdevs.io/) or [CurseForge.](https://curseforge.overwolf.com/)
 The server IP address is `4.71.159.140:25565`
