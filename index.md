@@ -3,9 +3,8 @@
 This pack is for the [Big Dogs community](https://discord.gg/6yg4gdV)  
 Created by the [430 Community](https://discord.gg/nujXh3Y3mp)  
 
-Our current server is running Valhelsia 3 which is available on [GDLauncher](https://gdevs.io/) or [CurseForge.](https://curseforge.overwolf.com/)  
+Our current server is running V3BD which is available on [Technic.](https://www.technicpack.net/download)
 The server IP address is `4.71.159.140:25565`  
-The current server version is pre7-3.1.0  
 
 Please make sure you have the [64-bit version of Java](https://www.java.com/en/download/manual.jsp) installed, and at least 6-8GB RAM allocated in your respective launchers settings.  
 
